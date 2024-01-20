@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/metinogulcak/static/css/main.6504214d.css",
+    "main.js": "/metinogulcak/static/js/main.d0b6c31b.js",
+    "static/media/work1.jpg": "/metinogulcak/static/media/work1.1b483461a6ca10f18d82.jpg",
+    "static/media/about.png": "/metinogulcak/static/media/about.0655d393b2785a7c3500.png",
+    "static/media/work2.jpg": "/metinogulcak/static/media/work2.740ef220574d8abdb16c.jpg",
+    "static/media/profile.png": "/metinogulcak/static/media/profile.b7dd1d9621e02cd69480.png",
+    "static/media/cv.pdf": "/metinogulcak/static/media/cv.277d4e5ddb4f938083f0.pdf",
+    "static/media/work3.jpg": "/metinogulcak/static/media/work3.075e083a8bf3e1e6b31d.jpg",
+    "static/media/work4.jpg": "/metinogulcak/static/media/work4.22fe21559a3d03bc8768.jpg",
+    "static/media/Sun.svg": "/metinogulcak/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/metinogulcak/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/metinogulcak/index.html",
+    "main.6504214d.css.map": "/metinogulcak/static/css/main.6504214d.css.map",
+    "main.d0b6c31b.js.map": "/metinogulcak/static/js/main.d0b6c31b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6504214d.css",
+    "static/js/main.d0b6c31b.js"
+  ]
+}
