@@ -52,6 +52,14 @@
   --container-color: #fff;
   --button-text-color: hsl(var(--hue), var(--sat), 100%);
   --button-background-color:#3f3f3f;
+  --button-background-color-dark:#fff;
+
+  .button{
+    background-color: #3f3f3f;
+  }
+  .button:hover{
+    background-color: #282828;
+  }
 }
 @media screen and (max-width: 992px) {
   :root {

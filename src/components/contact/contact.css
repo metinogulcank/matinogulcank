@@ -4,7 +4,7 @@
     column-gap: 3rem;
     padding-bottom: 3rem;
     max-width: 1100px;
-    margin-right: 10%;
+    margin-right: 24%;
 }
 .contact_title{
     text-align:center;
@@ -121,6 +121,9 @@
     .contact_form{
         margin:0 auto;
     }
+    .contact_content{
+        margin-left: 65px;
+    }
   }
   
   @media screen and (max-width: 576px) {
@@ -129,6 +132,18 @@
     }
     .contact_form{
         width: 100%;
+    }
+    .contact_card{
+        width: 350px;
+        margin-left: 1rem;
+    }
+    .contact_form-input{
+        width: 350px;
+        margin-left: 1rem;
+    
+    }
+    .contact_form button.button.button-flex {
+        margin-left: 1rem;
     }
   }
   
@@ -140,5 +155,16 @@
     .container {
       margin-left: var(--mb-1);
       margin-right: var(--mb-1);
+    }
+    .contact_card{
+        width: 350px;
+        margin-left: 1rem;
+    }
+    .contact_form-input{
+        width: 350px;
+        margin-left: 1rem;
+    }
+    .contact_form button{
+        margin-left: 1rem !important;
     }
   }

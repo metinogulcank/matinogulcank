@@ -86,6 +86,11 @@
     .work_img{
         width: 100%;
     }
+    .work_card {
+        padding: 1rem;
+        width: 350px;
+        height: 250px;
+    }
   }
   
   @media screen and (max-width: 350px) {
@@ -94,5 +99,10 @@
     }
     .work_filters{
         column-gap:0.25rem;
+    }
+    .work_card {
+        padding: 1rem;
+        width: 350px;
+        height: 250px;
     }
   }
